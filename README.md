@@ -5,3 +5,4 @@ The template was built using the [Git option](https://nunocoracao.github.io/blow
 
 ![blowfish logo](https://github.com/nunocoracao/blowfish_artist/blob/main/logo.png?raw=true)
 
+
