@@ -4,7 +4,7 @@
 
 theme = "blowfish"
 baseURL = "https://h4r4-yusuke.github.io/"
-defaultContentLanguage = "ja"
+defaultContentLanguage = "en"
 
 enableRobotsTXT = true
 paginate = 20
